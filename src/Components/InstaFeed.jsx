@@ -1,0 +1,1 @@
+// fetch(https://graph.instagram.com/me/media?fields={FIELDNAME}&access_token={TOKEN})
